@@ -16,7 +16,7 @@ public class Class2 {
 	@BeforeClass
 	public void BeforeClass2()
 	{
-		System.out.println("ru me before class");
+		System.out.println("raghib me before class");
 	}
 	@AfterClass
 	public void AfterClass2()
