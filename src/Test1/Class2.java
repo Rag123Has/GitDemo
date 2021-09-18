@@ -21,7 +21,7 @@ public class Class2 {
 	@AfterClass
 	public void AfterClass2()
 	{
-		System.out.println("ru  after class");
+		System.out.println("ru  123 after class");
 	}
  
 	@Parameters({"URL","Key"})
